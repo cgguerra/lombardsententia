@@ -65,20 +65,39 @@
         <p xml:id="pl-l3d4c1-d1e120"> 
           Non enim ideo operatio incarnationis Spiritui sancto saepius
           attribuitur, quod eam ipse solus sine Patre ac Filio fecerit, sed quia Spiritus sanctus
-          est caritas et donum Patris et Filii , et ineffabili Dei caritate <quote
-          xml:id="pl-l3d4c1-Qd1e122">Verbum caro facium est</quote>, et inaestimabili Dei dono
-          Filius Dei sibi univit <quote xml:id="pl-l3d4c1-Qd1e125">formam servi.</quote> Non igitur
-          <quote xml:id="pl-l3d4c1-Qd1e128"> </quote>frequens denominatio Spiritus sancti ab illo
+          est caritas et donum Patris et Filii, et ineffabili Dei caritate
+          <cit> 
+            <quote xml:id="pl-l3d4c1-Qd1e122">Verbum caro facium est</quote>
+          </cit>, 
+          et inaestimabili Dei dono
+          Filius Dei sibi univit 
+          <cit>
+            <quote xml:id="pl-l3d4c1-Qd1e125">formam servi.</quote>
+          </cit>
+          Non igitur frequens denominatio Spiritus sancti ab illo
           opere Patrem vel Filium secludit, sed potius, uno nominato, tres intelliguntur, sicut
-          saepe Fit in aliis operibus . 
+          saepe Fit in aliis operibus. 
         </p>
-        <p xml:id="pl-l3d4c1-d1e132"> Unde <name>Augustinus</name>, super hoc movens quaestionem, in
-          hunc modum eandem determinat in <title>Enchiridio</title>, ita inquiens: <quote
-          xml:id="pl-l3d4c1-Qd1e140">Cum illam creaturam quam Virgo concepit et peperit, quamvis ad
-          solam personam Filii pertinentem, tota Trinitas fecerit — neque enim separabilia sunt
-          opera Trinitatis — cur in ea facienda Spiritus sanctus solus nominatus est ? An et quando
-          unus Trium in aliquo opere nominatur, universa Trinitas operari intelligitur? Ita vere
-          est, et exemplis doceri potest</quote>. 
+        <p xml:id="pl-l3d4c1-d1e132"> Unde
+          <ref> 
+            <name>Augustinus</name>, 
+            super hoc movens quaestionem, in
+            hunc modum eandem determinat in 
+            <title>Enchiridio</title>
+          </ref>, 
+          <!--I put this in one reference even though there are added words bw Augustinus and Enchiridio-->
+          ita inquiens:
+          <cit> 
+            <quote xml:id="pl-l3d4c1-Qd1e140">
+              Cum illam creaturam quam 
+              <name>Virgo</name>
+              concepit et peperit, quamvis ad
+              solam personam Filii pertinentem, tota Trinitas fecerit — neque enim separabilia sunt
+              opera Trinitatis — cur in ea facienda Spiritus sanctus solus nominatus est? An et quando
+              unus Trium in aliquo opere nominatur, universa Trinitas operari intelligitur? Ita vere
+              est, et exemplis doceri potest
+            </quote>
+          </cit>. 
         </p>
         <p xml:id="pl-l3d4c1-d1e145"> 
           Audistis propositam quaestionem eiusdemque expositionem. 
